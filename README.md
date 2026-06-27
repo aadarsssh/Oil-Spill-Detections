@@ -187,7 +187,7 @@ This project demonstrates how machine learning can assist in:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@aadarsssh]((https://github.com/aadarsssh))
+- GitHub: [@aadarsssh](https://github.com/aadarsssh)
 - Dataset: [Kaggle Oil Spill Detection](https://www.kaggle.com/datasets/sudhanshu2198/oil-spill-detection)
 
 ---
