@@ -187,11 +187,7 @@ This project demonstrates how machine learning can assist in:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@aadarsssh]((https://github.com/aadarsssh))
 - Dataset: [Kaggle Oil Spill Detection](https://www.kaggle.com/datasets/sudhanshu2198/oil-spill-detection)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
